@@ -4,3 +4,6 @@ Developed end to end working prototype of Indoor positioning system using BLE Be
 
 
 Today GPS is the go-to technology for tracking the position of an object or a person. It however does not perform well indoors because its signals are not able to penetrate physical barriers. For that reason, IPS are used instead for indoor tracking applications.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
