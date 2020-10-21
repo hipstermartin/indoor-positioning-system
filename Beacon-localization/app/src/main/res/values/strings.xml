@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Positioning app</string>
+    <string name="refresh">Locate</string>
+    <string name="calculate">Calculate</string>
+    <string name="room_x_tip">x range to : </string>
+    <string name="room_y_tip">y range to : </string>
+    <string name="location_tip">Current location: </string>
+    <string name="not_a_number">N/A</string>
+</resources>
